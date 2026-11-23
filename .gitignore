@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+.env
+*.log
+data/raw/*
+data/processed/*
+models/trained/*
